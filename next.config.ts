@@ -9,7 +9,4 @@
 
 module.exports = {
   reactStrictMode: true,
-  experimental: {
-    appDir: true, // Enable App Router
-  },
 };
